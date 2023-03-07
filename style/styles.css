@@ -1,0 +1,8 @@
+#categories-container {
+    list-style-type: none;
+    display: flex;
+}
+
+.category {
+    padding: 20px 10px;
+}
